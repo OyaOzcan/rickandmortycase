@@ -1,79 +1,12 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Rick and Morty Case
 
-# Getting Started
+## Ekran Görüntüleri
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/f6b03d8f-13ce-4265-9668-911a75f481d3" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/882d6ff1-fbc2-4bc7-91da-b725e49af7bf" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/70325ea2-056d-434c-97ec-4978442b5c0f" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/5d486173-0f9c-4daf-9bfc-598e8cda258e" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/30dbd287-ddd4-4012-8ae3-ebf38b056189" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/a8ef3a67-f351-4182-a40f-be1bae559edc" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/20f6bf9e-c425-457c-b3b9-958491e94c86" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/ef80d0ad-340b-4339-9414-2a2acf49d625" width="200"/>
