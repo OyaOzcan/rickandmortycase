@@ -10,3 +10,4 @@
 <img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/a8ef3a67-f351-4182-a40f-be1bae559edc" width="200"/>
 <img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/20f6bf9e-c425-457c-b3b9-958491e94c86" width="200"/>
 <img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/ef80d0ad-340b-4339-9414-2a2acf49d625" width="200"/>
+<img src="https://github.com/OyaOzcan/rickandmortycase/assets/141520129/a8ef3a67-f351-4182-a40f-be1bae559edc" width="200"/>
